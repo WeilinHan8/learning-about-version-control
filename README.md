@@ -1,2 +1,2 @@
-# learning-about-version-control
+# Learning About Version Control
 author: Weilin han
